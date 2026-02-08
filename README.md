@@ -1,16 +1,58 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**realm-team/realm-team** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# RealmVPN Team
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Secure+Your+Digital+Realm;Fast+%26+Reliable+VPN;Privacy+First" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```plaintext
+We are RealmVPN Team.
+This is our service account for internal processes
+```
+
+<br>
+
+### Connect With Us
+
+<a href="https://t.me/realmvpn">
+  <img src="https://img.shields.io/badge/Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://t.me/realmvpn_bot">
+  <img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://realmvpn.com">
+  <img src="https://img.shields.io/badge/Website-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+</a>
+
+<br><br>
+
+### What We Do
+
+```ascii
+┌─────────────────────────────────────────────┐
+│  🛡️  Secure VPN Solutions                   │
+│  ⚡  Lightning-Fast Connections              │
+│  🔒  Military-Grade Encryption              │
+│  🌍  Global Server Network                  │
+│  🎯  Privacy-Focused Service                │
+└─────────────────────────────────────────────┘
+```
+
+### Get in Touch
+
+<a href="mailto:support@realmvpn.tech">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://t.me/realmvpnsupport_bot">
+  <img src="https://img.shields.io/badge/Telegram Support-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+<sub><3 Protecting your digital freedom since 2026</sub>
+
+</div>
