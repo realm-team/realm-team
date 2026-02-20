@@ -17,11 +17,11 @@ This is our service account for internal processes
   <img src="https://img.shields.io/badge/Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://t.me/realmvpn_bot">
+<a href="https://t.me/realmvpnbot">
   <img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://realmvpn.com">
+<a href="https://realmvpn.tech">
   <img src="https://img.shields.io/badge/Website-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
 </a>
 
@@ -31,11 +31,11 @@ This is our service account for internal processes
 
 ```ascii
 ┌─────────────────────────────────────────────┐
-│  🛡️  Secure VPN Solutions                   │
-│  ⚡  Lightning-Fast Connections              │
-│  🔒  Military-Grade Encryption              │
-│  🌍  Global Server Network                  │
-│  🎯  Privacy-Focused Service                │
+│  🛡️  Secure VPN Solutions                  │
+│  ⚡  Lightning-Fast Connections            │
+│  🔒  Military-Grade Encryption             │
+│  🌍  Global Server Network                 │
+│  🎯  Privacy-Focused Service               │
 └─────────────────────────────────────────────┘
 ```
 
@@ -45,7 +45,7 @@ This is our service account for internal processes
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://t.me/realmvpnsupport_bot">
+<a href="https://t.me/realmsuppbot">
   <img src="https://img.shields.io/badge/Telegram Support-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 
